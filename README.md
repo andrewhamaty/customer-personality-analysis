@@ -6,8 +6,10 @@ The complete analysis, including data loading, clustering, and campaign performa
 
 ## Contents 
 * **`main.ipynb`**: This Jupyter Notebook contains all the code for the data analysis, from loading the data to generating insights and visualizations. 
+
 * **`marketing.duckdb`**: This file is a DuckDB database containing the raw data
 used for the analysis.
+
 * **`queries/load_data.sql.duckdb`**: The query I used to load my data in the main notebook.
 
 ## To Run:
