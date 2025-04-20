@@ -10,7 +10,7 @@ The complete analysis, including data loading, clustering, and campaign performa
 *  **`marketing.duckdb`**: This file is a DuckDB database containing the raw data
 used for the analysis.
 
-*  **`queries/load_data.sql.duckdb`**: The query I used to load my data in the main notebook.
+*  **`queries/load_data.sql`**: The query I used to load my data in the main notebook.
 
 ## To Run:
 * This project utilizes `uv` for managing dependencies and running the notebook.
